@@ -1,3 +1,61 @@
+# 📚 Book Finder
+
+Book Finder is a React app that allows users to search for books using the [Open Library API](https://openlibrary.org/developers/api).  
+It was built with **React (Vite)**, styled using **TailwindCSS**, and deployed on **Vercel** and **CodeSandbox**.
+
+---
+
+## 🚀 Demo
+- Live (Vercel): [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)  
+- Live (CodeSandbox): [https://your-sandbox-url](https://your-sandbox-url)  
+- GitHub Repo: [https://github.com/sivarenuka520-ui/book_finder](https://github.com/sivarenuka520-ui/book_finder)
+
+---
+
+## 🛠 Tech Stack
+- React (Vite)
+- TailwindCSS
+- Open Library API
+- Vercel / CodeSandbox (deployment)
+
+---
+
+## ⚙️ How to Run Locally
+1. Clone the repo:
+   ```bash
+ git clone https://github.com/sivarenuka520-ui/book_finder.git
+   cd book_finder
+
+Install dependencies:
+```bash
+npm install
+
+Run the dev server:
+```bash
+npm run dev
+
+Open http://localhost:5173
+Build for Production:
+```bash
+npm run build
+npm run preview
+
+File Structure
+book-finder/
+│── public/
+│   └── images/dummy-image.webp
+│── src/
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
+│── package.json
+│── vite.config.ts
+│── tailwind.config.cjs
+
+Main Code (App.tsx)
+
+Here’s the core logic of the app:
+
 import React, { useState } from "react";
 
 interface Book {
