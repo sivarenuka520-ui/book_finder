@@ -6,7 +6,7 @@ Built with **React (Vite)**, styled using **TailwindCSS**, and deployed on **Ver
 ---
 
 ## 🚀 Demo
-- Live (Vercel): https://your-vercel-url.vercel.app  
+- Live (Vercel): [https://your-vercel-url.vercel.app ](https://book-finder-h13l.vercel.app/) 
 - Live (CodeSandbox): https://your-sandbox-url  
 - GitHub Repo: https://github.com/sivarenuka520-ui/book_finder  
 
