@@ -6,8 +6,7 @@ It was built with **React (Vite)**, styled using **TailwindCSS**, and deployed o
 ---
 
 ## 🚀 Demo
-- Live (Vercel): [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)  
-- Live (CodeSandbox): [https://your-sandbox-url](https://your-sandbox-url)  
+- Live (Vercel): (https://book-finder-h13l.vercel.app/)  
  - Live (StackBlitz):(https://stackblitz.com/github/sivarenuka520-ui/book_finder)
 - GitHub Repo: [https://github.com/sivarenuka520-ui/book_finder](https://github.com/sivarenuka520-ui/book_finder)
 
